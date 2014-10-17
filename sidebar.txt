@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nyq:home|Door43 (nyq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nyq|d43-nyq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nyq/archive/master.zip|d43-nyq.zip]]
+
+**Recent Changes**
+{{changes>ns = nyq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nyq|Ethnologue data]]
+
